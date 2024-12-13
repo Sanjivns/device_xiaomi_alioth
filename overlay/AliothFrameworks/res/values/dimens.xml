@@ -33,4 +33,8 @@
 
     <!-- Height of area above QQS where battery/time go (equal to status bar) -->
     <dimen name="quick_qs_offset_height">38dp</dimen>
+
+    <!-- Whether device ignores the RSSNR signal implementation -->
+    <bool name="config_ignoreRssnrSignalLevel">true</bool>
+
 </resources>
